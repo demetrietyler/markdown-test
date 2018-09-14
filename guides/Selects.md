@@ -9,8 +9,8 @@ Selects are interactive controls that enable users to choose an item from a know
 ### Single Select
 Use a single select when a user is choosing a single item from a collection of *20 or fewer* items.
 
+![enter image description here](https://github.com/demetrietyler/markdown-test/images/form-input.png)
 
-      markdown-test/images/form-input.png
     
 
 ### Multi Select
@@ -26,5 +26,5 @@ Use a search select when the collection is greater than 20.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MDgwODc1LC0xMTU4MDQyNzUxXX0=
+eyJoaXN0b3J5IjpbMzE1MzA2MjQyLC0xMTU4MDQyNzUxXX0=
 -->
