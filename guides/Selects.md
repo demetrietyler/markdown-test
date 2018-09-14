@@ -11,8 +11,6 @@ Use a single select when a user is choosing a single item from a collection of *
 
 ![](https://raw.githubusercontent.com/demetrietyler/markdown-test/master/images/form-input.png)
 
-    
-
 ### Multi Select
 Use a Multi select when a user is choosing a single item from a collection of *20 or fewer* items.
 
